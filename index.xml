@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bernard Nongpoh</title>
-    <link>https://username.github.io/</link>
+    <link>https://bernardnongpoh.github.io/</link>
     <description>Recent content on Bernard Nongpoh</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>bernard.nongpoh@gmail.com (Bernard Nongpoh)</managingEditor>
     <webMaster>bernard.nongpoh@gmail.com (Bernard Nongpoh)</webMaster>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bernardnongpoh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://username.github.io/about/</link>
+      <link>https://bernardnongpoh.github.io/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       <author>bernard.nongpoh@gmail.com (Bernard Nongpoh)</author>
-      <guid>https://username.github.io/about/</guid>
+      <guid>https://bernardnongpoh.github.io/about/</guid>
       <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
 It makes use of a variety of open source projects including:
  https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
@@ -25,10 +25,10 @@ It makes use of a variety of open source projects including:
     
     <item>
       <title>About me</title>
-      <link>https://username.github.io/page/about/</link>
+      <link>https://bernardnongpoh.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bernard.nongpoh@gmail.com (Bernard Nongpoh)</author>
-      <guid>https://username.github.io/page/about/</guid>
+      <guid>https://bernardnongpoh.github.io/page/about/</guid>
       <description>My name is Inigo Montoya. I have the following qualities:
  I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
 my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
@@ -36,28 +36,28 @@ my history To be honest, I&amp;rsquo;m having some trouble remembering right now
     
     <item>
       <title>Neural Networks and Deep Learning - Week 1</title>
-      <link>https://username.github.io/post/2019-06-20-neural-networks-deep-learning-week1/</link>
+      <link>https://bernardnongpoh.github.io/post/2019-06-20-neural-networks-deep-learning-week1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bernard.nongpoh@gmail.com (Bernard Nongpoh)</author>
-      <guid>https://username.github.io/post/2019-06-20-neural-networks-deep-learning-week1/</guid>
+      <guid>https://bernardnongpoh.github.io/post/2019-06-20-neural-networks-deep-learning-week1/</guid>
       <description>Week 1 Summary Welcome In this video Andrew Ng. walkthrough the deep learning specialization which includes Neural Networks and deep learning, hyperparameter tuning, structural machine learning projects, CNN and finally Recurrent Neural Network. The quote by Andrew Ng. that is AI is the new Electricity. This quote is really a powerful words that has already shown a disruptive of using AI across industries just like the electrification does in the Industrial Era.</description>
     </item>
     
     <item>
       <title>Neural Networks and Deep Learning - Week 2</title>
-      <link>https://username.github.io/post/2019-06-21-neural-networks-deep-learning-week2/</link>
+      <link>https://bernardnongpoh.github.io/post/2019-06-21-neural-networks-deep-learning-week2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bernard.nongpoh@gmail.com (Bernard Nongpoh)</author>
-      <guid>https://username.github.io/post/2019-06-21-neural-networks-deep-learning-week2/</guid>
+      <guid>https://bernardnongpoh.github.io/post/2019-06-21-neural-networks-deep-learning-week2/</guid>
       <description>Week 2 : Logistic Regression as a Neural Network : Summary Binary Classification Notation</description>
     </item>
     
     <item>
       <title>Neural Networks and Deep Learning - Week 2</title>
-      <link>https://username.github.io/post/2019-06-29-practical-deep-learning-for-coders-getting-started/</link>
+      <link>https://bernardnongpoh.github.io/post/2019-06-29-practical-deep-learning-for-coders-getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bernard.nongpoh@gmail.com (Bernard Nongpoh)</author>
-      <guid>https://username.github.io/post/2019-06-29-practical-deep-learning-for-coders-getting-started/</guid>
+      <guid>https://bernardnongpoh.github.io/post/2019-06-29-practical-deep-learning-for-coders-getting-started/</guid>
       <description>Practical Deep Learning for Coders, V3 Lesson 1 by Jeremy Howard Cloud Computing for Deep Learning  Google compute platform Salamander Colab - free  I will be using Colab for this course. No money to pay for cloud https://course.fast.ai/start_colab.html
 In Google Colab we need to save our work locally, meaning that the Google Clab is not responsible for saving our work.
 The first step is to download the course material from fast.</description>
@@ -65,10 +65,10 @@ The first step is to download the course material from fast.</description>
     
     <item>
       <title>Neural Networks and Deep Learning - Week 2</title>
-      <link>https://username.github.io/post/2019-06-29-practical-deep-learning-for-coders-lesson-1-video/</link>
+      <link>https://bernardnongpoh.github.io/post/2019-06-29-practical-deep-learning-for-coders-lesson-1-video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bernard.nongpoh@gmail.com (Bernard Nongpoh)</author>
-      <guid>https://username.github.io/post/2019-06-29-practical-deep-learning-for-coders-lesson-1-video/</guid>
+      <guid>https://bernardnongpoh.github.io/post/2019-06-29-practical-deep-learning-for-coders-lesson-1-video/</guid>
       <description>Practical Deep Learning for Coders, V3 Lesson 1 Video by Jeremy Howard Code section
 fast Ai sit at the top of Pytorch</description>
     </item>
